@@ -101,7 +101,8 @@ Installation & Setup=
 Follow these steps to run locally:
 
 Clone the repository:
-git clone <>
+git clone <https://github.com/Ankitshukla90/shoppy-globe.git>
+
 cd shoppy-globe
 
 
