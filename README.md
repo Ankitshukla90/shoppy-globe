@@ -201,7 +201,7 @@ Screenshots of all successful API responses (Register, Login, CRUD operations) a
 
 
 
-Github Link:
+Github Link: https://github.com/Ankitshukla90/shoppy-globe
 
 
 
